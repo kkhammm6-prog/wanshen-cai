@@ -1,0 +1,11 @@
+万神赐财 · 图片说明
+
+文件：assets/altar.webp
+来源：本次任务使用内置 imagegen 工具生成，不依赖远程图片链接。
+尺寸：1536 × 1024。
+交付处理：将工具生成的 PNG 转码为 WebP（quality 86），保持画面构图。
+筊杯：index.html 内嵌 SVG，使用木纹、平面与凸面材质和 CSS 翻转动画。
+
+最终生成提示词（内置工具模式）：
+
+Use case: photorealistic-natural. Asset type: background photograph for a mobile Chinese shrine web app, no UI, no lettering. Primary request: a solemn, reverent, photorealistic shared shrine interior. A traditional Chinese Caishen God of Wealth statue is central, a graceful white porcelain Guanyin Bodhisattva on the left and a dignified Christian Jesus sacred-heart statue with a small cross on the right. All are respectfully and separately enshrined together at similar visible scale; central Caishen slightly more prominent. Composition: front-facing symmetrical altar, landscape 3:2 framing, three statues grouped within central 70 percent so they remain visible in mobile crop. Upper background dark carved mahogany canopy and intricate wooden lattice, gold leaf, antique bronze. Lower foreground contains a bronze incense burner, wisps of incense and two red candles in bronze holders, polished dark altar surface. Cinematic amber volumetric shafts of light descending from above, subtle sacred glow behind statues, deep burgundy shadow, near-black sandalwood, antique gold highlights. Beautiful natural tactile wood carving, gilded sculpture details, realistic material and lens quality. Calm, holy, mysterious, museum-quality architectural photography. Enough low-contrast dark margin at top and bottom for separate website typography. No written words, no watermark, no casino objects, no cartoon, no neon, no interface, no numbers. Save the generated image as a local file and return its local path.
